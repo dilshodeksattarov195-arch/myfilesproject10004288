@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatoruave",
+        "uuid": 37550016,
+        "checksum": "bydlor"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
